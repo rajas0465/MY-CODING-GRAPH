@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\c#Code.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\c#Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\c#Code.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\c#Code.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\c#Code.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\bin\Debug\net5.0\c#Code.exe
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\bin\Debug\net5.0\c#Code.deps.json
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\bin\Debug\net5.0\c#Code.runtimeconfig.json
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\bin\Debug\net5.0\c#Code.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\bin\Debug\net5.0\c#Code.dll
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\bin\Debug\net5.0\ref\c#Code.dll
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\bin\Debug\net5.0\c#Code.pdb
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\c#Code.dll
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\ref\c#Code.dll
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\c#Code.pdb
+C:\Users\Admin\Desktop\ACodingTrack\c#Code\obj\Debug\net5.0\c#Code.genruntimeconfig.cache
